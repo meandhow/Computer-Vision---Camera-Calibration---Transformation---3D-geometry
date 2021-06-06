@@ -1,8 +1,7 @@
 # Computer-Vision---Camera-Calibration---Transformation---3D-geometry
 
- ELEC97112/ELEC97113
-Computer Vision and Pattern Recognition
-Coursework on computer vision [50% mark]
+This project represents a full computer vision pipiline from acquisition, thorugh analysis, to manipulation. Crated as submission for Imperial College ELEC97112/ELEC97113 Computer Vision and Pattern Recognition module
+
 
 Task 1. [10 marks] Collect Data
 Build a callibration grid e.g. from a cardbox.
